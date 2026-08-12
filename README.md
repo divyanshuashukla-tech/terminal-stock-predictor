@@ -1,4 +1,4 @@
-# > Terminal Stock Predictor 💻
+# > Stock Predictor 💻
 
 A beginner-friendly Machine Learning stock forecasting tool wrapped in a responsive cyberpunk hacker terminal UI. Built for hackathons to showcase simple, effective regression modeling without deployment overhead.
 
